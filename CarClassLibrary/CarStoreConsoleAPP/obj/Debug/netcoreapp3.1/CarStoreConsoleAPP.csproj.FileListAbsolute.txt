@@ -1,0 +1,17 @@
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\bin\Debug\netcoreapp3.1\CarStoreConsoleAPP.exe
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\bin\Debug\netcoreapp3.1\CarStoreConsoleAPP.deps.json
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\bin\Debug\netcoreapp3.1\CarStoreConsoleAPP.runtimeconfig.json
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\bin\Debug\netcoreapp3.1\CarStoreConsoleAPP.runtimeconfig.dev.json
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\bin\Debug\netcoreapp3.1\CarStoreConsoleAPP.dll
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\bin\Debug\netcoreapp3.1\CarStoreConsoleAPP.pdb
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\bin\Debug\netcoreapp3.1\CarClassLibrary.dll
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\bin\Debug\netcoreapp3.1\CarClassLibrary.pdb
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\obj\Debug\netcoreapp3.1\CarStoreConsoleAPP.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\obj\Debug\netcoreapp3.1\CarStoreConsoleAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\obj\Debug\netcoreapp3.1\CarStoreConsoleAPP.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\obj\Debug\netcoreapp3.1\CarStoreConsoleAPP.AssemblyInfo.cs
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\obj\Debug\netcoreapp3.1\CarStoreConsoleAPP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\obj\Debug\netcoreapp3.1\CarStoreConsoleAPP.csproj.CopyComplete
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\obj\Debug\netcoreapp3.1\CarStoreConsoleAPP.dll
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\obj\Debug\netcoreapp3.1\CarStoreConsoleAPP.pdb
+C:\Users\Asus\Documents\CSharp-Programming\CarClassLibrary\CarStoreConsoleAPP\obj\Debug\netcoreapp3.1\CarStoreConsoleAPP.genruntimeconfig.cache
